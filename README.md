@@ -1,5 +1,7 @@
 # vue-todo
 
+Very basic todo app built with Vue 3, for practice
+
 ## Project setup
 ```
 npm install
